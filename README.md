@@ -3,9 +3,7 @@
 Sistema para Pousada em Java e MySQL  
 Descrição do Projeto:
 
-O sistema é um grande painel administrativo, não se preocupe com o layout, pois irei comprar um template pronto e montar cada tela .html conforme eu desejo, porém será bom ter noção de css.
-
-Também será bom ter bastante noção de Javascript e Jquery, já que não quero um sistema funcionando via submit.
+O sistema é um grande painel administrativo de controle de pousadas. Pesquisar templates free para fofurizar o projeto.
 
 #O Sistema
 O sistema terá a função de gerenciar 2 pousada do mesmo dono.
