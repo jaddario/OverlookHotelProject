@@ -1,10 +1,10 @@
 # Overlook Hotel Project
 
-Sistema para Pousadas em Java para showcase de habilidades em criação de Api's RESTFul em SpringBoot e, posteriormente, desenvolvimento de um frontEnd em Angular just for fun.
+Sistema para Pousadas em Java para showcase de habilidades em criação de Api's RESTFul em SpringBoot just for fun.
 
-## Descrição do Projeto:
+### Descrição do Projeto:
 
-O sistema é um grande painel administrativo de controle de pousadas. Pesquisar templates free para fofurizar o projeto.
+O sistema é um grande painel administrativo de controle de pousadas. Dashboard deverá ser desenvolvido em Angular.
 
 ### O Sistema
 O sistema terá a função de gerenciar 2 pousadas do mesmo dono (Ainda ver como escalar).
