@@ -1,14 +1,15 @@
-# repo-pousada
+# Overlook Hotel Project
 
-Sistema para Pousada em Java e MySQL  
-Descrição do Projeto:
+Sistema para Pousadas em Java para showcase de habilidades em criação de Api's RESTFul em SpringBoot e, posteriormente, desenvolvimento de um frontEnd em Angular just for fun.
+
+## Descrição do Projeto:
 
 O sistema é um grande painel administrativo de controle de pousadas. Pesquisar templates free para fofurizar o projeto.
 
-#O Sistema
-O sistema terá a função de gerenciar 2 pousada do mesmo dono.
+### O Sistema
+O sistema terá a função de gerenciar 2 pousadas do mesmo dono (Ainda ver como escalar).
 
-#Funcionalidades do Sistemas
+### Funcionalidades do Sistemas
 - Cadastro de Clientes e Fornecedores
 - Cadastro de Filiais/Pousadas (Cada pousada tem um nome, endereço e fotos próprias)
 - Gerenciamento de Usuários e Privilégios (Cada usuário só ver a informação de uma determinada pousada)
